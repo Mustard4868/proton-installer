@@ -12,6 +12,7 @@ This is a simple Bash script to automatically download and install the latest re
 - `curl`: Required to fetch the latest release information.
 - `tar`: Needed to extract the downloaded archive.
 - Steam must be installed and running on your system.
+- `git`: To clone this repository as per the installation steps. (optional).
 
 ## Installation
 1. Clone this repository and cd into the directory:
