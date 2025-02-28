@@ -14,14 +14,17 @@ This is a simple Bash script to automatically download and install the latest re
 - Steam must be installed and running on your system.
 
 ## Installation
-1. Copy the script and save it as `proton-ge-updater.sh`.
-2. Give it execute permissions:
+1. Clone this repository and cd into the directory:
    ```bash
-   chmod +x proton-ge-updater.sh
+   git clone https://github.com/mustard4868/proton-installer.git && cd proton-installer
+   ```
+2. Give the script execute permissions:
+   ```bash
+   chmod +x install.sh
    ```
 3. Run the script:
    ```bash
-   ./proton-ge-updater.sh
+   ./install.sh
    ```
 
 ## Usage
